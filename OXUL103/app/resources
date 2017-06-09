@@ -1,1 +1,26 @@
 
+cydia.tar
+_READ_
+#
+{Cydia}
+Cydia.tar
+Cydia.app
+Cydia
+#
+{Mobile}
+Substrate
+Cydia.app
+Dropbear
+Dropbear.plist
+Dropbearkey.plist
+#
+{Jailbreak}
+icon_set (ipad) 
+icon_set (iphone)
+icon_set (ipod)
+icon_image (@70x60)
+#
+{APPICONS}
+app.image
+cydia.img
+//Cydia icon is for the outside and inside look of it.
