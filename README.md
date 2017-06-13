@@ -32,7 +32,7 @@ A. Well, just simply request a "pull request" - and if you fit the specification
 | iPhone 5  | iOS 10.3.(1) |
 | iPhone 5s  | iOS 10.3.(2) |
 | iPhone 5c | iOS 10.3.(1) |
-| iPod touch 6G | iOS 10.3.2 | Update Note: iPod Touch 6G now only works with beta 1 on iOS 10.3.1 only for now.
+| iPod touch 6G | iOS 10.3.1 | Update Note: iPod Touch 6G now only works with beta 1 on iOS 10.3.1 only for now.
 
 ## Warnings
 
@@ -48,7 +48,7 @@ This jailbreak is incomplete. This is not complete so please dont complain about
 
 | Version | Download |
 |---------|----------|
-| Beta 1  | TBA      |
+| Beta 1  | COMPLETED|
 
 ## Beta Change log:
 
