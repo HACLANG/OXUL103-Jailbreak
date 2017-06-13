@@ -5,7 +5,7 @@ THIS JAILBREAK TOOL WILL BE RELEASED AS AN .IPA AND WILL ONLY BE AVAILABLE FOR D
 *
 IF EVERYTHING COMES BACK 100% RELEASE TERM FITTED, IT WILL BE RELEASED PUBLICLY, BEING ONLY IN BETA!
 
-*
+* UPDATE!: -Beta 1 completed, everything looking release suitable, now just needs to be refurbished to double check the rootsystem can hold and enable the exploit.
 ## ChangeLog Note: 
 beta 1: Released {ONLY TO DEVELOPERS} 
 
