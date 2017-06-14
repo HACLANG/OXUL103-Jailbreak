@@ -1,0 +1,52 @@
+Official Commit - OXUL103 JAILBREAK
+Faulting:
+-If, (under any circumstances) your iDevice breakes, or
+is in unusable conditions, YOU'RE the one to blame
+not me!, it's your own iDevice going at risk if you down-
+load this jailbreaking tool. 
+- If your iDevice is currently usable with active warranty
+DO NOT Jailbreak your iDevice! Your warranty will
+not be valid, and Apple will not fix your device if it's
+Jailbroken.
+- If you use this tool in any inappropriate manner, you
+will be the cause of any failure in your file system, 
+containing the flow control of the root/filesystem.
+(Pretty much saying if you backdoor this tool, you will
+be named for fraud and scamming.) I (iBootBeta2)
+do not consent anyone to allow the edit of any based
+file system to do with the way the jailbreak program
+operates.
+- If you agree to allowing your iDevice OS version to be
+modified in this way (in this case; Jailbreak) you may
+continue.
+                  [However, if you disagree to have your device
+Jailbroken, please disregared this and exit all Jailbreak
+programs that you want nothing to do with your device.]
+-----------------------------------------------------
+Disobeying these IMPORTANT rules may classify
+your iDevice to endure kernel panic's and internal 
+operating in general issues.
+If you use this tool to in any way attempt to scam
+or fraud someone, you will be reported and removed.
+------------------------------------------------------
+WHAT IS JAILBREAK?
+---------------------------------
+- Jailbreak is an exploitation which modifies the
+running iOS version to allow different perimeters that
+the Jailbreak user wishes to use and own.
+                      Instantly after the boot of the exploit, cydia
+will be installed and your device will be now 100% completed
+jailbreak.
+-------------------------------------------------------
+WHAT IS CYDIA?
+-------------------------
+- Cydia is like appstore, except Cydia is way better.
+You are capable of having free iAP-Purchases-
+(inapp-purchases) at no cost.
+        There are many ways that Cydia can benefit you and
+your device, these are called tweaks, which allow other
+modifications that you would like to have on your device.
+You can add repositories which allow you to add
+sources which tweaks belong with that package so you're
+capable to install the desired tweak or application by
+using the search bar.
