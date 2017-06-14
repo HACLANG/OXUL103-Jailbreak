@@ -7,7 +7,7 @@ IF EVERYTHING COMES BACK 100% RELEASE TERM FITTED, IT WILL BE RELEASED PUBLICLY,
 
 * UPDATE!: -Beta 1 completed, everything looking release suitable, now just needs to be refurbished to double check the rootsystem can hold and enable the exploit.
 ## ChangeLog Note: 
-beta 1: Released {ONLY TO DEVELOPERS} 
+beta 1: Released {currently roaming through to assess errors and bugs that may cause future problems.}
 
 ## OTHER IMPORTANT INFORMATION ##
 
@@ -31,7 +31,9 @@ A. Well, just simply request a "pull request" - and if you fit the specification
 | iPad Mini | iOS 10.3.(1) |
 | iPhone 5  | iOS 10.3.(1) |
 | iPhone 5s  | iOS 10.3.(2) |
-| iPhone 5c | iOS 10.3.(1) |
+| iPhone 5c| iOS 10.3.(1) |
+| iPhone 6/+ | iOS 10.3.1 |
+| iPhone 7/+ | iOS 10.3-1 |
 | iPod touch 6G | iOS 10.3.1 | Update Note: iPod Touch 6G now only works with beta 1 on iOS 10.3.1 only for now.
 
 ## Warnings
