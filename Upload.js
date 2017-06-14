@@ -1,6 +1,6 @@
 OXUL103 Jailbreak
 +Updates
-+Beta iPA's 
++Beta iPAs
 -----------------------------------------------------------------
 **UPDATES:**
 - "App" file created. (all consistent files, and imagery of the current look of the icons, expect some glitches).
@@ -13,7 +13,7 @@ _ "Jailbreak running stability checked and fluently updated"/ Running file syste
 6:51PM:13/06/2017----------**UPDATED FREQUENTLY**-----------
 iPod Touch 6g currently unsupported, tested and caused multible bootloops.
 ------------------------------------------------------------------------------------------------------------------
-**Beta iPA's**
+**Beta iPA**
 Beta 1: Finished and completed, needs to be refurbished, plus i'm in the need of more developers to test new beta's and testing stabilities.
 [fustrates me to buy idevices, spending a lot of money to test an exploit that may or may not work on a typical device!]
 All new developers get shoutouts in every update and commit.
