@@ -1,6 +1,6 @@
 // Credited to the user: ianbeer
 
-kernel arbitrary read/write exploit for CVE-2017-2370 for iOS 10.3.(1)
+kernel arbitrary read/write exploit for CVE-2017-6975 for iOS 10.3.(1)
 
 Only tested on iPod Touch 6G 14E304 - iOS 10.3.1, iPhone 5s 14E304 iOS 10.3.1  - other devices/firmwares will not work out of the box!
  All 64-bit devices should work, but if not it will be caused by unstable beta release of the iPA file, but your device **WILL** be supported
