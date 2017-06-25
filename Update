@@ -12,6 +12,8 @@ Constant rebooting may have been caused by an error during the exploitation.
 _ "Jailbreak running stability checked and fluently updated"/ Running file systems, only 64-bit devices capabilities.
 6:51PM:13/06/2017----------**UPDATED FREQUENTLY**-----------
 iPod Touch 6g currently unsupported, tested and caused multible bootloops.
+25/06/17---------------**IMPORTANT UPDATE**--------------
+The Kermel Arbitrary has been updated and supported to 10.3.2. Included extra support with the iOS. Temporally removed IOKIT, removed resources with some cydia containment.
 ------------------------------------------------------------------------------------------------------------------
 **Beta iPA**
 Beta 1: Finished and completed, needs to be refurbished, plus i'm in the need of more developers to test new beta's and testing stabilities.
