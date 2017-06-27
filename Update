@@ -27,3 +27,10 @@ Beta 5: Yet to be developed.
 -------------------------------------------------------------------------------------------------------------------
 OXUL103 IconSet added.
 Currently 10.3 & 10.3.1 supported, 10.3.2 WILL be supported and Jailbroken with OXUL103.
+-------------------------------------------------------------------------------------------------------------------
+June 2017 OXUL103 Frequents Updates and News
+-iOS 10.3.2 vulnerabilities updated, not currently on GitHub but completed.
+- iOS 10.3 - 10.3.2 supported Jaibreak.
+- Added Cydia icon set.
+Fixed appNonce error input message.
+*revoked appNonce error input, added text box( searchesfor specific appNonce caches.
