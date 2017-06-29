@@ -34,3 +34,9 @@ June 2017 OXUL103 Frequents Updates and News
 - Added Cydia icon set.
 Fixed appNonce error input message.
 *revoked appNonce error input, added text box( searchesfor specific appNonce caches.
+------------------------------------------------------------------------------------------------------------------
+June 2017 OXUL103 #2 Updates and News
+- Finish update KPP Bypass and vulnerabilities in iOS 10.3.2. The iPod 6G will be added to beta 2.
+- OXUL103 supported 10.3x.
+- KPP ~ pwn dyld working in and add it soon.
+- Working with .ipa.
